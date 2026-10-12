@@ -46,6 +46,9 @@ With over 10 years of interdisciplinary experience spanning energy systems, scie
   <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/DataCamp-Data_Analyst_Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
   <img src="https://img.shields.io/badge/DeepLearning.AI-AI_Engineer_Associate-FF4F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SoulCode-AI_Developer-4A90E2?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-Tech_Specialization-2A7AE4?style=for-the-badge&logo=alura&logoColor=white" />
   <img src="https://img.shields.io/badge/TriggoAI-AI_Developer-6C63FF?style=for-the-badge&logo=probot&logoColor=white" />
 </div>
 
