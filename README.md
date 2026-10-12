@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Alex Tito Workspace" width="100%">
+  <img src="./banner.jpg" alt="Alex Tito Workspace" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou o Alex Tito! 👋</h1>
