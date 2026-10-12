@@ -72,3 +72,7 @@ With over 10 years of interdisciplinary experience spanning energy systems, scie
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexTDO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTDO&layout=compact&theme=radical" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Private_Contributions-756-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Private Contributions" />
+</p>
