@@ -68,6 +68,10 @@ With over 10 years of interdisciplinary experience spanning energy systems, scie
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <em>(Note: The card below displays <strong>Public</strong> repositories metrics, complemented by private enterprise contributions)</em>
+</p>
+
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexTDO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTDO&layout=compact&theme=radical" />
