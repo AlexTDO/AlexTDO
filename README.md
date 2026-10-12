@@ -54,25 +54,29 @@ With over 10 years of interdisciplinary experience spanning energy systems, scie
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Advanced Frameworks
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain_/_LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2F++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI_/_Power_Platform-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux_/_Bash-FCC624?style=for-the-badge&logo=gnu-bash&logoColor=black" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Core Expertise Distribution
 
 <p align="center">
-  <em>(Note: The card below displays <strong>Public</strong> repositories metrics, complemented by private enterprise contributions)</em>
+  <em>(Note: The card below displays <strong>Public</strong> repositories metrics, backed by 756+ private enterprise & agency contributions)</em>
 </p>
 
 <div align="center">
@@ -82,4 +86,12 @@ With over 10 years of interdisciplinary experience spanning energy systems, scie
 
 <p align="center">
   <img src="https://img.shields.io/badge/Private_Contributions-756-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Private Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Engineering_%26_Agents_(CrewAI/LangGraph)-45%25-FF4F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scientific_ML_%26_PyTorch-25%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science_%26_Analytics-15%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases_%26_APIs-10%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_%26_Dashboards-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
