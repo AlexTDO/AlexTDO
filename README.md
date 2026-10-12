@@ -2,7 +2,7 @@
   <img src="./banner.jpg" alt="Alex Tito Workspace" width="100%">
 </p>
 
-<h1 align="center">Olá, eu sou o Alex Tito! 👋</h1>
+<h1 align="center">Hi, I'm Alex Tito! 👋</h1>
 
 <p align="center">
   <strong>Scientific Machine Learning & AI Engineer | Computational Geophysicist</strong>
@@ -19,17 +19,39 @@
 
 ---
 
-### 💼 Sobre Mim
+### 💼 About Me
 
-Com mais de 10 anos de experiência interdisciplinar abrangendo sistemas de energia, computação científica e IA avançada[cite: 2]:
-* 🔭 **Pesquisa e Inovação:** Atuo como Cientista de Dados na Diretoria de Tecnologia da Polícia Militar do RN (DTIC/PMRN)[cite: 1, 2], desenvolvendo soluções orientadas a dados para segurança pública, tomada de decisão estratégica e automação de processos[cite: 2].
-* 🧠 **Inteligência Artificial & Machine Learning:** Especialista em arquiteturas de múltiplos agentes (CrewAI, LangGraph), pipelines RAG, aplicações com LLMs[cite: 1], Deep Learning e Machine Learning (especializações por Stanford/DeepLearning.AI)[cite: 4].
-* 🌊 **Geofísica Computacional & HPC:** Autor de publicações científicas revisadas por pares (Springer) em Inversão de Forma de Onda Completa (FWI), problemas inversos não-lineares, computação de alto desempenho (HPC) e Física Informada por Redes Neurais (PINNs)[cite: 1, 2, 3].
-* ⚡ **Edge AI:** Expandindo conhecimentos de forma autônoma para Edge AI, sistemas embarcados, microcontroladores (como ESP32) e TinyML[cite: 1].
+With over 10 years of interdisciplinary experience spanning energy systems, scientific computing, and advanced AI:
+* 🔭 **Research & Innovation:** Working as a Data Scientist at the Directorate of Technology of the Military Police of Rio Grande do Norte (DTIC/PMRN), developing data-driven solutions for public safety, strategic decision-making, and process automation.
+* 🧠 **Artificial Intelligence & Machine Learning:** Specialist in multi-agent architectures (CrewAI, LangGraph), RAG pipelines, LLM applications, Deep Learning, and Machine Learning (specializations from Stanford / DeepLearning.AI).
+* 🌊 **Computational Geophysics & HPC:** Author of peer-reviewed scientific publications (Springer) in Full-Waveform Inversion (FWI), non-linear inverse problems, High-Performance Computing (HPC), and Physics-Informed Neural Networks (PINNs).
+* ⚡ **Edge AI:** Independently expanding expertise into Edge AI, embedded systems, microcontrollers (such as ESP32), and TinyML.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🚀 Featured Projects
+
+* **[SEISTOMO-X](https://github.com/AlexTDO/SEISTOMO-X)** - An open-source differentiable 2D elastic wave equation solver written in PyTorch for advanced seismic imaging and inverse problems.
+* **[Gelato Mágico ML](https://github.com/AlexTDO/Gelato-Magico-ML)** - An end-to-end sales forecasting machine learning pipeline served via a FastAPI REST API with MLflow experiment tracking.
+* **[Oracle One Tech AI Builder Challenge](https://github.com/AlexTDO/Oracle-One-Tech-AI-Builder-Challenge)** - Real estate market data analysis and AI builder solution challenge project.
+* **[Seazone Challenge](https://github.com/AlexTDO/Seazone-Challenge)** - Data analysis and technical challenge implementation focused on real estate market trends.
+* **[AI Credit Card Authenticity Analyzer](https://github.com/AlexTDO/AI-Credit-Card-Authenticity-Analyzer)** - Intelligent solution leveraging machine learning for credit card authenticity verification.
+* **[Assistente de TCC RAG](https://github.com/AlexTDO/Assistente-de-TCC-RAG)** - Retrieval-Augmented Generation (RAG) assistant pipeline built to support academic research and thesis workflows.
+
+---
+
+### 📜 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataCamp-Data_Analyst_Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
+  <img src="https://img.shields.io/badge/DeepLearning.AI-AI_Engineer_Associate-FF4F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TriggoAI-AI_Developer-6C63FF?style=for-the-badge&logo=probot&logoColor=white" />
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,7 +66,7 @@ Com mais de 10 anos de experiência interdisciplinar abrangendo sistemas de ener
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexTDO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
